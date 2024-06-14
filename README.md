@@ -7,9 +7,7 @@
 <h1 align="center">Hi 👋, I'm Ekta Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
-<img align="right" alt="coding"  width="400" src="[https://giphy.com/embed/hpXdHPfFI5wTABdDx9](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R5Z2djZnA0MWw5ZjNhMmszczloY2FyODhjcHZvbmRpaDhiMjZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)"></img>
-
+<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektajha29&label=Profile%20views&color=0e75b6&style=flat" alt="ektajha29" /> </p>
 
