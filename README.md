@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektajha29&label=Profile%20views&color=0e75b6&style=flat" alt="ektajha29" /> </p>
 
-- 🌱 I’m currently learning **DSA,Java,C++,HTML,CSS3,React**
+- 🌱 I’m currently learning **DSA,Java,C,C++,HTML,CSS3,JAVASCRIPT,PHP,React**
 
 - 📫 How to reach me **ektajha29@gmail.com**
 
